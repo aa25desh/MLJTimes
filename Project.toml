@@ -1,0 +1,12 @@
+name = "MLJTime"
+uuid = ""
+authors = []
+version = "0.1"
+
+[deps]
+DecisionTree = "7806a523-6efd-50cb-b5f6-3fa6f1930dbb"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[compat]
+DecisionTree = "0.10.1"
+julia = "1"
